@@ -2,6 +2,6 @@
 
 Hi everyone! This is a compilation of me learning JavaScript via 30 projects on 30 days! 
 
-projects: 
-  1. drum kit
+projects: (with hosted links :))
+  1. drum kit - https://drum-kit-anushka.netlify.app/
   
