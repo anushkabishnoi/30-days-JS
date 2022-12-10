@@ -33,7 +33,6 @@ form input {
   border-radius: 12px;
   font-size: 2rem;
   padding: 1rem;
-  color: #fff;
   background: #000;
   text-align: right;
   pointer-events: none;
@@ -65,13 +64,14 @@ button {
 
 .btn-grey {
   background: rgb(224, 224, 224);
-  color: #fff;
 }
 
 .btn-equal {
-  background: #54B435;
+  background: #54b435;
+  color: #fff;
 }
 
 .btn-clear {
-  background: #DC3535;
+  background: #dc3535;
+  color: #fff;
 }
