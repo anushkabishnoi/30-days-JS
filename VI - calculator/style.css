@@ -36,6 +36,7 @@ form input {
   background: #000;
   text-align: right;
   pointer-events: none;
+  color: aliceblue;
 }
 
 .buttons {
