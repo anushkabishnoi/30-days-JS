@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: papyrus;
+}
+body{
+    color: #FF5C58;
+    background-color: #06283D;
+}
+h2{
+    padding: 1.6rem;
+    font-size: 2rem;
+}
+h2 span{
+    color: aqua;
+}
+h2::before{
+    width: 60%;
+    height: 2rem;
+    background: #FF5C58;
+}
+h2:hover{
+    color: #F47C7C;
+    font-size: 1.7rem;
+}
+button{
+    background: #FF5C58;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 2rem;
+    border: none;
+    border-radius: 20px;
+    width: 9rem;
+    height: 4rem;
+    margin: 0 0.5rem 0 0.5rem;
+}
+button:hover{
+    background: #F47C7C;
+    color: aliceblue;
+    font-size: 1.7rem;
+}
+.body{
+    text-align: center;
+}
+nav{
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+}
+.candy{
+    background-color: #F47C7C;
+    color: #FFEEEE;
+}
+.galaxy{
+    background: #243A73;
+    color: #DAEAF1;
+}
+.flamin{
+    background: #B20600;
+    color: #F7F5F2;
+}
+.sunshine{
+    background: #FAC213;
+    color: #FEF9A7;
+}
+.peachy{
+    background: #FF5C58;
+    color: #FCF8E8;
+}
+.royalty{
+    background: #5534A5;
+    color: #F9F9F9;
+}
